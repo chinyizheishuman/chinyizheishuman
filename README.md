@@ -1,105 +1,80 @@
 # Chin Yi Zhe
 
-**Chin Yi Zhe**
+**Software Engineering · Go · Python · C# · Linux**
 
-Software Engineering Student | Go Developer | Python | Linux | Automation
+Hi, I'm Yeezy, a software engineering student based in Malaysia.
 
-*Building practical software, understanding how systems work, and documenting the process.*
+I enjoy building practical software, working with operating systems, and understanding how things work beyond the interface.
 
-![GitHub Followers](https://img.shields.io/github/followers/chinyizheishuman?style=flat-square&label=Followers&color=00d9c5)
-![Go](https://img.shields.io/badge/Go-Development-00ADD8?style=flat-square)
-![Python](https://img.shields.io/badge/Python-Automation-3776AB?style=flat-square)
-![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-555555?style=flat-square)
+Most of my independent programming experience has involved Go, Python, networking, automation, and Linux. My academic work has also introduced me to C#, ASP.NET Core MVC, SQL, TypeScript, and mobile application development.
 
----
+I'm currently seeking a software engineering internship in Malaysia to complete the practical training requirement for my Professional Diploma.
 
-## Hello 👋
+### What I work with
 
-I'm Chin Yi Zhe, a software engineering student from Malaysia with a strong interest in building command-line applications, automation tools, and reliable software.
-
-I enjoy working close to the operating system, understanding how applications communicate, and turning complicated technical problems into usable solutions.
-
-My primary development interests include:
-
-- **Go:** Command-line utilities, concurrent programming, networking, and automation.
-- **Python:** Scripting, data processing, and development utilities.
-- **Systems:** Linux, Windows, troubleshooting, and software integration.
-- **Web Development:** HTML, CSS, JavaScript, and practical applications.
-- **Engineering Practices:** Git, debugging, testing, technical documentation, and maintainable code.
-
-I'm currently working toward completing my software engineering internship requirement and seeking opportunities to gain further professional development experience.
-
-## 🛠️ Technical Toolkit
-
-| Category | Technologies |
+| Area | Technologies |
 |---|---|
-| Languages | Go, Python, JavaScript |
-| Web | HTML5, CSS3 |
-| Operating Systems | Linux, Windows 11 |
-| Development | Git, GitHub, Visual Studio |
-| Interests | Backend engineering, CLI tools, automation, networking |
+| Programming | Go, Python, C#, TypeScript, JavaScript |
+| Web development | ASP.NET Core MVC, HTML, CSS, Angular, Ionic |
+| Databases | SQL, relational database design |
+| Systems | Linux, Windows, networking |
+| Development tools | Git, GitHub, VS Code, Visual Studio |
 
-My preferred approach is straightforward: understand the problem, build a working solution, test the result, and document the tradeoffs.
+### Selected academic work
 
-## 📂 The Workbench
+**E-Commerce Web Application**
 
-This profile is my professional development workspace.
+`C#` `ASP.NET Core MVC` `SQL`
 
-I'm building a collection of small, independently developed software projects focused on practical use cases.
+Software engineering coursework involving administrator, seller, and shopper workflows.
 
-### Planned Projects
+The application source includes product management, shopping cart operations, promotions, checkout, and transaction history.
 
-**01. LogBench | Go**
+**Mobile Shopping Application**
 
-A command-line application for processing structured application logs.
+`Ionic` `Angular` `TypeScript` `SCSS`
 
-Planned features include filtering, parsing, summaries, structured exports, and automated tests.
+A mobile application coursework project featuring product browsing, favorites, cart management, user profiles, and order history.
 
-Status: Planned
+**Student Records Management**
 
-**02. Personal Portfolio | Web**
+`C#` `File Processing` `Data Management`
 
-A lightweight personal website for project demonstrations, technical notes, and software engineering work.
+A console application developed for coursework, covering student record management, batch imports, searching, grade calculations, and reporting.
 
-Target stack: HTML, CSS, and JavaScript.
+These projects are being reviewed and prepared for public demonstration. Source availability does not mean every feature has been retested.
 
-Status: In development
+### Education
 
-**03. FileAudit | Go**
+**Eduvo Academy**
 
-A read-only file inventory and backup verification utility.
+Professional Diploma in Software Engineering
 
-Planned features include file manifests, hashing, duplicate detection, and verification reports.
+Academic coursework completed. Industry internship requirement pending.
 
-Status: Planned
+Relevant subjects include:
 
-*Projects will receive individual repositories, documentation, tests, and release information as they are completed.*
+- Programming Concept and Logic
+- Database Design
+- Web Programming
+- Mobile App Development
+- Systems Analysis and Design
 
-## 🧭 How I Work
+### Currently
 
-I believe useful software should be:
+- Preparing academic projects for reproducible demonstrations
+- Building a separate professional development portfolio
+- Improving project documentation, testing, and maintainability
+- Seeking software engineering internship opportunities
 
-- **Understandable:** Clear interfaces and documentation.
-- **Reliable:** Predictable behavior and meaningful error handling.
-- **Efficient:** Reasonable resource usage and appropriate technology choices.
-- **Maintainable:** Organized code and reproducible development steps.
-- **Honest:** Documented limitations and verified results.
+### GitHub
 
-I prefer working software over impressive claims.
+[My repositories](https://github.com/chinyizheishuman?tab=repositories)
 
-## 🎯 Current Focus
-
-- Building and documenting independent Go projects.
-- Developing a lightweight professional portfolio.
-- Strengthening practical software engineering skills.
-- Preparing for software engineering internship opportunities in Malaysia.
-
-## 📬 Connect
-
-**GitHub:** [@chinyizheishuman](https://github.com/chinyizheishuman)
-
-**Portfolio:** Coming soon.
+This profile is a work in progress. I'd rather publish something functional and explain its limitations than fill the page with projects that don't exist.
 
 ---
 
-*Small tools. Clear results. Real engineering.*
+*Build it. Test it. Document it.*
+
+**Yeezy Labs - to be continued somewhere**
