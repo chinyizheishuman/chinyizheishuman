@@ -1,4 +1,4 @@
-# ⚡ Yeezy Labs
+# Chin Yi Zhe
 
 **Chin Yi Zhe**
 
@@ -13,7 +13,7 @@ Software Engineering Student | Go Developer | Python | Linux | Automation
 
 ---
 
-## Hello, I'm Yeezy 👋
+## Hello 👋
 
 I'm Chin Yi Zhe, a software engineering student from Malaysia with a strong interest in building command-line applications, automation tools, and reliable software.
 
@@ -43,7 +43,7 @@ My preferred approach is straightforward: understand the problem, build a workin
 
 ## 📂 The Workbench
 
-Yeezy Labs is my professional development workspace.
+This profile is my professional development workspace.
 
 I'm building a collection of small, independently developed software projects focused on practical use cases.
 
@@ -57,7 +57,7 @@ Planned features include filtering, parsing, summaries, structured exports, and 
 
 Status: Planned
 
-**02. Yeezy Labs | Web**
+**02. Personal Portfolio | Web**
 
 A lightweight personal website for project demonstrations, technical notes, and software engineering work.
 
@@ -87,12 +87,6 @@ I believe useful software should be:
 
 I prefer working software over impressive claims.
 
-## 📊 GitHub Activity
-
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=chinyizheishuman&show_icons=true&hide_border=true&theme=transparent)
-
-*Activity statistics are provided by an external service and may be temporarily unavailable.*
-
 ## 🎯 Current Focus
 
 - Building and documenting independent Go projects.
@@ -108,4 +102,4 @@ I prefer working software over impressive claims.
 
 ---
 
-*Yeezy Labs | Small tools. Clear results. Real engineering.*
+*Small tools. Clear results. Real engineering.*
