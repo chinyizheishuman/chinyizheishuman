@@ -1,98 +1,69 @@
 <p align="center">
-  <img src="assets/engineering-header.svg" width="920" alt="Chin Yi Zhe, Yeezy Labs. Software engineering, backend, Linux, networking and defensive security." />
+  <img src="assets/engineering-header.svg" width="920" alt="Chin Yi Zhe, software engineering portfolio. C#, ASP.NET Core, Go, Python and Linux." />
 </p>
 
 <p align="center">
-  <strong>Software engineering student in Malaysia</strong><br/>
-  C# / ASP.NET Core · Go · Python · Linux · Security engineering
+  <strong>Software engineering student based in Malaysia</strong><br/>
+  C# / ASP.NET Core · Go · Python · Linux
 </p>
 
 <p align="center">
-  <a href="https://github.com/chinyizheishuman/eduvo-mvc-modernization">Explore Geek Lab</a>
+  <a href="https://github.com/chinyizheishuman/eduvo-mvc-modernization">Geek Lab</a>
   &nbsp;·&nbsp;
   <a href="https://github.com/chinyizheishuman?tab=repositories">Repositories</a>
   &nbsp;·&nbsp;
-  <a href="https://labs.cyberwarfare.live/credential/achievement/6ac84dbadfb0f59fc7639062">Security training</a>
+  <a href="#credentials">Credentials</a>
 </p>
 
 ## About
 
-I'm Yeezy. I work with C#, Go and Python, and spend a lot of time on Linux, networking and figuring out how software behaves outside the happy path.
+Most of my independent programming has involved Go, Python, Linux and networking. At Eduvo Academy, my coursework covered C#, ASP.NET Core MVC, SQL Server and mobile development with Angular and Ionic.
 
-My coursework introduced me to full-stack and mobile development. Most of my independent learning has been in programming, systems and cybersecurity. I like tracing a failure to the code that caused it, changing what needs to change, and checking the result.
-
-I'm currently looking for a **software engineering internship in Malaysia** to complete the practical training requirement of my Professional Diploma at **Eduvo Academy**.
+I'm currently looking for a **software engineering internship in Malaysia** to complete the practical training requirement for my Professional Diploma.
 
 ## Selected work
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### [Geek Lab](https://github.com/chinyizheishuman/eduvo-mvc-modernization)
-**ASP.NET Core MVC · C# · SQL Server**
 
-A three-role e-commerce application I built for DSE207 in 2025, then returned to in 2026 to repair missing views, broken checkout paths and inventory handling.
+**C# · ASP.NET Core MVC · SQL Server · EF Core · xUnit**
 
-The repository includes real screenshots, test cases and a documented last-unit SQL Server concurrency check.
+This started as my DSE207 e-commerce coursework in 2025. When I returned to it in 2026, the project built but the Add Product and Checkout workflows still had problems. I repaired missing Razor views, worked on checkout and inventory handling, and documented the results.
 
-[Code](https://github.com/chinyizheishuman/eduvo-mvc-modernization) · [Verification](https://github.com/chinyizheishuman/eduvo-mvc-modernization/blob/main/docs/VERIFICATION.md)
+The repository has **29 xUnit test cases**, plus separate browser and SQL Server verification notes. The documentation explains what was tested, which checks used an in-memory database, and what still needs work.
 
-</td>
-<td width="50%" valign="top">
+[Source and screenshots](https://github.com/chinyizheishuman/eduvo-mvc-modernization) · [Project map](https://github.com/chinyizheishuman/eduvo-mvc-modernization/blob/main/docs/PROJECT-MAP.md) · [Verification record](https://github.com/chinyizheishuman/eduvo-mvc-modernization/blob/main/docs/VERIFICATION.md)
 
-### TRACEPROOF
-**Security regression engineering · In development**
+### Academic projects
 
-A separate project exploring how AI can propose defensive regression checks while tests, outputs and source changes provide the evidence.
+| Project | Technologies | Scope |
+| --- | --- | --- |
+| Mobile shopping application | Ionic, Angular, TypeScript | Product browsing, favorites, cart, profiles and order history |
+| Student records management | C# | File-based imports, searching, grades and reporting |
 
-Still private and under development. No release or completed engine is claimed.
+These are separate coursework projects. They are not presented here as released products.
 
-**Focus:** Code changes, isolated tests, reproducible results.
+### In progress: TRACEPROOF
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+An independent, private project exploring AI-assisted **defensive regression testing**. The goal is to connect code changes to approved checks and the actual test evidence. It is in development, not a released tool or a completed test engine.
 
-### Mobile shopping application
-**Ionic · Angular · TypeScript**
+## Technical experience
 
-Coursework covering product browsing, favorites, cart, profiles and order history.
-
-</td>
-<td width="50%" valign="top">
-
-### Student records management
-**C# · File processing**
-
-Console coursework covering record imports, searching, grades and reporting.
-
-</td>
-</tr>
-</table>
-
-## Technical areas
-
-| Area | Technologies and experience |
+| Area | Technologies |
 | --- | --- |
-| Software | C#, Go, Python, JavaScript, TypeScript |
+| Languages | C#, Go, Python, JavaScript, TypeScript |
 | Web and mobile | ASP.NET Core MVC, Razor, Angular, Ionic |
-| Data | SQL Server, EF Core, relational database concepts |
-| Systems | Linux, Windows, networking, Git |
+| Data | SQL Server, EF Core, relational databases |
+| Systems and tooling | Linux, Windows, networking, Git, GitHub Actions |
 | Testing and security | xUnit, HTTP integration tests, debugging, defensive code review |
 
 ## Credentials
 
-- **[TryHackMe Certified Junior Penetration Tester (PT1)](https://assets.tryhackme.com/certification-certificate/69fd3c959aa0c9e61c800a98.pdf)**. Issuer-hosted certificate.
-- **[Certified Blue Team Fundamentals (BTF)](https://labs.cyberwarfare.live/credential/achievement/6ac84dbadfb0f59fc7639062)**. Cyberwarfare Labs.
-- **[Certified Cyber Security Analyst (C3SA)](https://labs.cyberwarfare.live/credential/achievement/6ac81ed6dfb0f59fc76366c9)**. Cyberwarfare Labs.
-
-These link to the original verification pages. They reflect training, not a claim that every application or tool I touch is secure.
+- [**TryHackMe Certified Junior Penetration Tester (PT1)**](https://assets.tryhackme.com/certification-certificate/69fd3c959aa0c9e61c800a98.pdf)
+- [**Certified Blue Team Fundamentals (BTF)**](https://labs.cyberwarfare.live/credential/achievement/6ac84dbadfb0f59fc7639062), Cyberwarfare Labs
+- [**Certified Cyber Security Analyst (C3SA)**](https://labs.cyberwarfare.live/credential/achievement/6ac81ed6dfb0f59fc76366c9), Cyberwarfare Labs
 
 ## Education
 
-**Eduvo Academy**  
-Professional Diploma in Software Engineering. Coursework completed, internship requirement pending.
+**Eduvo Academy** · Professional Diploma in Software Engineering
 
-I'm looking for a team where I can contribute to real code, learn through review and keep improving how I test and maintain software.
+Academic coursework completed. Industry internship requirement pending.
