@@ -1,67 +1,57 @@
 # Chin Yi Zhe
 
-**Software engineering · C# / ASP.NET Core · Go · Python · Linux**
+**Software engineering student · Malaysia · Seeking an internship**
 
-I'm Yeezy, a software engineering student based in Malaysia, currently looking for a software engineering internship.
+I go by Yeezy. Most of my independent work is in Go, Python, Linux, networking and automation. My coursework brought me into C#, ASP.NET Core, databases and mobile development. Security is another part of how I approach software: I want to know where it fails, not just whether it compiles.
 
-I like working on software that already exists: tracing failures through a codebase, fixing the underlying problem, and checking whether the fix holds up. Outside coursework, I've spent time with Linux, networking, automation, and cybersecurity.
+I'm interested in backend and software engineering, particularly debugging existing systems, understanding their behavior and making changes I can explain.
 
-## Featured project: Geek Lab
+## Work
 
-**2025 coursework. Revisited, repaired and tested in 2026.**
+### Geek Lab · E-commerce coursework, restored and tested
 
-[**Explore the source, screenshots and verification notes**](https://github.com/chinyizheishuman/eduvo-mvc-modernization)
+**C# · ASP.NET Core MVC · EF Core · SQL Server · xUnit**
 
-[![Geek Lab catalogue with search and stock controls](https://raw.githubusercontent.com/chinyizheishuman/eduvo-mvc-modernization/main/docs/screenshots/shopper-catalogue.png)](https://github.com/chinyizheishuman/eduvo-mvc-modernization)
+A three-role shop I built for DSE207 at **Eduvo Academy** in 2025. I returned to it in 2026 and repaired broken product and checkout routes, tested role workflows and documented a last-unit checkout concurrency issue against SQL Server.
 
-`C#` `ASP.NET Core MVC` `SQL Server` `EF Core` `Razor` `xUnit`
+The point of returning wasn't to make an old assignment look new. It was to work through the problems I hadn't solved the first time.
 
-I originally built Geek Lab for DSE207 at Eduvo Academy. Returning to it exposed broken product and checkout routes and some more interesting problems underneath.
+[**Repository and application screenshots**](https://github.com/chinyizheishuman/eduvo-mvc-modernization) · [Code map](https://github.com/chinyizheishuman/eduvo-mvc-modernization/blob/main/docs/PROJECT-MAP.md) · [Test evidence and limits](https://github.com/chinyizheishuman/eduvo-mvc-modernization/blob/main/docs/VERIFICATION.md)
 
-- Recovered missing Razor views and verified Seller, Admin and Shopper workflows.
-- Tested an inventory race: two shoppers attempted to buy the final unit. The checkout now handles the conflict without overselling in the documented SQL Server scenario.
-- Added and exercised regression checks for checkout behavior and HTTP routes.
-- Documented defensive improvements and the limitations that still need work.
+### Other coursework
 
-The repository reports **29 automated tests**, alongside separately documented Chromium / SQL Server checks. Read the [verification record](https://github.com/chinyizheishuman/eduvo-mvc-modernization/blob/main/docs/VERIFICATION.md) for what was and wasn't tested.
-
-## Other work
-
-**Mobile shopping application** · `Ionic` `Angular` `TypeScript` `SCSS`  
-Coursework covering product browsing, favorites, cart, profiles and order history.
-
-**Student records management** · `C#` `File Processing`  
-Console coursework covering imports, searching, grade calculations and reporting.
-
-**TRACEPROOF (in development)**  
-An independent project exploring AI-assisted, evidence-first security regression testing. It is currently a private work-in-progress, **not a released tool**.
-
-## Skills and interests
-
-| Area | Experience |
+| Project | Focus |
 | --- | --- |
-| Software | C#, Go, Python, JavaScript, TypeScript |
-| Web & mobile | ASP.NET Core MVC, Razor, Angular, Ionic |
-| Data | SQL Server, EF Core, relational database concepts |
+| Mobile shopping application | Ionic, Angular, TypeScript; catalogue, cart and user flows |
+| Student records management | C# console application; imports, search, grades and reporting |
+
+These are separate coursework projects. I haven't linked public repositories for them here.
+
+### TRACEPROOF · In development
+
+A separate experiment in **AI-assisted security regression engineering**: connect a code change to a proposed test, run approved checks in isolation, then distinguish evidence from an AI-generated claim.
+
+It's a private work in progress, **not a released scanner**. The connection to Geek Lab is the engineering question, not a shared codebase: how do you show that a fix really works?
+
+## What I work with
+
+| Engineering | Tools and technology |
+| --- | --- |
+| Languages | Go, Python, C#, JavaScript, TypeScript |
+| Application development | ASP.NET Core MVC, Razor, Angular, Ionic |
+| Data | SQL Server, EF Core, relational data |
 | Systems | Linux, Windows, networking, Git |
-| Quality & security | Regression tests, debugging, security fundamentals, defensive code review |
+| Verification | xUnit, HTTP integration tests, debugging, defensive code review |
 
-## Verified credentials
+## Cybersecurity training
 
-- [**Certified Blue Team Fundamentals (BTF)**](https://labs.cyberwarfare.live/credential/achievement/6ac84dbadfb0f59fc7639062) · Cyberwarfare Labs
-- [**Certified Cyber Security Analyst (C3SA)**](https://labs.cyberwarfare.live/credential/achievement/6ac81ed6dfb0f59fc76366c9) · Cyberwarfare Labs
+Both credentials below link to the issuer's public records:
 
-These links lead to the issuing organization's credential pages.
+- [Certified Blue Team Fundamentals (BTF)](https://labs.cyberwarfare.live/credential/achievement/6ac84dbadfb0f59fc7639062), Cyberwarfare Labs
+- [Certified Cyber Security Analyst (C3SA)](https://labs.cyberwarfare.live/credential/achievement/6ac81ed6dfb0f59fc76366c9), Cyberwarfare Labs
 
-## Education and next step
+## Education and internship
 
-**Eduvo Academy** · Professional Diploma in Software Engineering  
-Academic coursework completed; seeking an internship to fulfill the practical training requirement.
+**Eduvo Academy · Professional Diploma in Software Engineering**
 
-I'm interested in software engineering roles where I can contribute to existing codebases, learn from code reviews, and build software that can be tested and maintained.
-
----
-
-*Build it. Break assumptions. Test the fix.*
-
-**Yeezy Labs** · A home for projects I've actually worked on.
+Academic coursework completed; seeking an internship to complete the practical training requirement. I'm looking for a team where I can contribute to real code, get better through review, and learn how software is maintained beyond the classroom.
