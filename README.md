@@ -1,80 +1,67 @@
 # Chin Yi Zhe
 
-**Software Engineering · Go · Python · C# · Linux**
+**Software engineering · C# / ASP.NET Core · Go · Python · Linux**
 
-Hi, I'm Yeezy, a software engineering student based in Malaysia.
+I'm Yeezy, a software engineering student based in Malaysia, currently looking for a software engineering internship.
 
-I enjoy building practical software, working with operating systems, and understanding how things work beyond the interface.
+I like working on software that already exists: tracing failures through a codebase, fixing the underlying problem, and checking whether the fix holds up. Outside coursework, I've spent time with Linux, networking, automation, and cybersecurity.
 
-Most of my independent programming experience has involved Go, Python, networking, automation, and Linux. My academic work has also introduced me to C#, ASP.NET Core MVC, SQL, TypeScript, and mobile application development.
+## Featured project: Geek Lab
 
-I'm currently seeking a software engineering internship in Malaysia to complete the practical training requirement for my Professional Diploma.
+**2025 coursework. Revisited, repaired and tested in 2026.**
 
-### What I work with
+[**Explore the source, screenshots and verification notes**](https://github.com/chinyizheishuman/eduvo-mvc-modernization)
 
-| Area | Technologies |
-|---|---|
-| Programming | Go, Python, C#, TypeScript, JavaScript |
-| Web development | ASP.NET Core MVC, HTML, CSS, Angular, Ionic |
-| Databases | SQL, relational database design |
-| Systems | Linux, Windows, networking |
-| Development tools | Git, GitHub, VS Code, Visual Studio |
+[![Geek Lab catalogue with search and stock controls](https://raw.githubusercontent.com/chinyizheishuman/eduvo-mvc-modernization/main/docs/screenshots/shopper-catalogue.png)](https://github.com/chinyizheishuman/eduvo-mvc-modernization)
 
-### Selected academic work
+`C#` `ASP.NET Core MVC` `SQL Server` `EF Core` `Razor` `xUnit`
 
-**E-Commerce Web Application**
+I originally built Geek Lab for DSE207 at Eduvo Academy. Returning to it exposed broken product and checkout routes and some more interesting problems underneath.
 
-`C#` `ASP.NET Core MVC` `SQL`
+- Recovered missing Razor views and verified Seller, Admin and Shopper workflows.
+- Tested an inventory race: two shoppers attempted to buy the final unit. The checkout now handles the conflict without overselling in the documented SQL Server scenario.
+- Added and exercised regression checks for checkout behavior and HTTP routes.
+- Documented defensive improvements and the limitations that still need work.
 
-Software engineering coursework involving administrator, seller, and shopper workflows.
+The repository reports **29 automated tests**, alongside separately documented Chromium / SQL Server checks. Read the [verification record](https://github.com/chinyizheishuman/eduvo-mvc-modernization/blob/main/docs/VERIFICATION.md) for what was and wasn't tested.
 
-The application source includes product management, shopping cart operations, promotions, checkout, and transaction history.
+## Other work
 
-**Mobile Shopping Application**
+**Mobile shopping application** · `Ionic` `Angular` `TypeScript` `SCSS`  
+Coursework covering product browsing, favorites, cart, profiles and order history.
 
-`Ionic` `Angular` `TypeScript` `SCSS`
+**Student records management** · `C#` `File Processing`  
+Console coursework covering imports, searching, grade calculations and reporting.
 
-A mobile application coursework project featuring product browsing, favorites, cart management, user profiles, and order history.
+**TRACEPROOF (in development)**  
+An independent project exploring AI-assisted, evidence-first security regression testing. It is currently a private work-in-progress, **not a released tool**.
 
-**Student Records Management**
+## Skills and interests
 
-`C#` `File Processing` `Data Management`
+| Area | Experience |
+| --- | --- |
+| Software | C#, Go, Python, JavaScript, TypeScript |
+| Web & mobile | ASP.NET Core MVC, Razor, Angular, Ionic |
+| Data | SQL Server, EF Core, relational database concepts |
+| Systems | Linux, Windows, networking, Git |
+| Quality & security | Regression tests, debugging, security fundamentals, defensive code review |
 
-A console application developed for coursework, covering student record management, batch imports, searching, grade calculations, and reporting.
+## Verified credentials
 
-These projects are being reviewed and prepared for public demonstration. Source availability does not mean every feature has been retested.
+- [**Certified Blue Team Fundamentals (BTF)**](https://labs.cyberwarfare.live/credential/achievement/6ac84dbadfb0f59fc7639062) · Cyberwarfare Labs
+- [**Certified Cyber Security Analyst (C3SA)**](https://labs.cyberwarfare.live/credential/achievement/6ac81ed6dfb0f59fc76366c9) · Cyberwarfare Labs
 
-### Education
+These links lead to the issuing organization's credential pages.
 
-**Eduvo Academy**
+## Education and next step
 
-Professional Diploma in Software Engineering
+**Eduvo Academy** · Professional Diploma in Software Engineering  
+Academic coursework completed; seeking an internship to fulfill the practical training requirement.
 
-Academic coursework completed. Industry internship requirement pending.
-
-Relevant subjects include:
-
-- Programming Concept and Logic
-- Database Design
-- Web Programming
-- Mobile App Development
-- Systems Analysis and Design
-
-### Currently
-
-- Preparing academic projects for reproducible demonstrations
-- Building a separate professional development portfolio
-- Improving project documentation, testing, and maintainability
-- Seeking software engineering internship opportunities
-
-### GitHub
-
-[My repositories](https://github.com/chinyizheishuman?tab=repositories)
-
-This profile is a work in progress. I'd rather publish something functional and explain its limitations than fill the page with projects that don't exist.
+I'm interested in software engineering roles where I can contribute to existing codebases, learn from code reviews, and build software that can be tested and maintained.
 
 ---
 
-*Build it. Test it. Document it.*
+*Build it. Break assumptions. Test the fix.*
 
-**Yeezy Labs - to be continued somewhere**
+**Yeezy Labs** · A home for projects I've actually worked on.
